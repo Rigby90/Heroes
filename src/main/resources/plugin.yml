@@ -1,0 +1,8 @@
+name: Heroes
+main: com.herocraftonline.dev.heroes.Heroes
+authors: ['DThielke','Kainzo','RightLegRed','Rigby']
+version: maven-version-number
+commands:
+  heroes:
+    description: Generic Heroes Command
+    usage: /<command>
